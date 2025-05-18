@@ -1,0 +1,9 @@
+#logo a {
+  background-image: url('https://i.imgur.com/aiGMQG8.png') !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  text-indent: -9999px; /* hides original text */
+  display: block;
+  width: 200px; /* adjust if needed */
+  height: 50px; /* adjust if needed */
+}
